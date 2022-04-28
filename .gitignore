@@ -4,3 +4,6 @@ compress/
 .DS_Store
 *ELO322-tarea*
 .gitignore
+*.mp3
+*.txt
+*.zip
